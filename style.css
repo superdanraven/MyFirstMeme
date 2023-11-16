@@ -1,0 +1,17 @@
+* {
+    color: white;
+}
+
+h1 {
+    font-family: 'Libre Baskerville', serif;
+font-family: 'Lugrasimo', cursive;
+}
+
+div {
+    margin: 500px
+    text-align: center;
+}
+
+body {
+    background-color: black;
+}
